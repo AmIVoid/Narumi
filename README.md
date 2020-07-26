@@ -1,2 +1,1 @@
-# Narumi
- 
+# Backup of [Narumi](https://anilist.co/user/user570871/)'s Manga and Anime from AniList.
